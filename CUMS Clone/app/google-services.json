@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "376596119099",
+    "firebase_url": "https://cogent-web-services-project.firebaseio.com",
+    "project_id": "cogent-web-services-project",
+    "storage_bucket": "cogent-web-services-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376596119099:android:cfa55f6a924a9b1b23e61e",
+        "android_client_info": {
+          "package_name": "com.example.cogentwebservicesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376596119099-v2nh29582tg48us9idokd9uct4fk3jps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cogentwebservicesproject",
+            "certificate_hash": "087ee31fcf21c4b04ef65162e8033cf447b15f13"
+          }
+        },
+        {
+          "client_id": "376596119099-po9hqb3rdu7t6g5rvm5lciv88ru8mksn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeUQGjPc6seTncQhTE5sJNnZdN3CDkYTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376596119099-po9hqb3rdu7t6g5rvm5lciv88ru8mksn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
